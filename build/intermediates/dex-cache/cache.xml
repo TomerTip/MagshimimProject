@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_c2f865ab9f752a623dc675c6ec64de82227bccc2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_cc6a05b8a61881d207f20506cfe52877b447eace\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_167c044fec08993a0daf167736d76dbf6852c362\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2f53d33ee18a3930ea138b93b06a86d7391a5918">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a3adbbf0201cc0173e118034955d6f32977db74\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_27573ea772fa3cad8e0529f762e96c27f80e56fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_aecef707ba2505dd399deb2ccd6e1dc90dca2024\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_a21a4b3d53314b974fa703648342c572c56be71e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.pubnub\pubnub-android\3.7.4\c02cccf01db17087381def915810bf65979a4d28\pubnub-android-3.7.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c02cccf01db17087381def915810bf65979a4d28">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\pubnub-android-3.7.4_6380e3ea694d4c2084e438dc654b290ef8fefc31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\me.kevingleason\pnwebrtc\1.0.6\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3af8f6b1334edafec663f52872ee53167c651721">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.kevingleason-pnwebrtc-1.0.6_10f3a51ca4ddb3e90ac135ee354a37f45ebc5532\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_27cc9e14feea6568df6908fc621a1f79f640baa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0d3fb95cdb20d53234340d5129c659c71334d3e4">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a4d618562778d8dc7b3b78c9a9e83f36d1aefa0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6d883ab1022deb32be82605d6fb3ae187dce36e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_5d0fb435ed6d93691cebd6c40c704d8f1f1cae7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_5822e471fe8572bd4c199df4fc63189bf4e4a2e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b818a12f388961126133a3ab62f0a4f6e4d363b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_6ec885f67ba71ae5e7e5cb486352a2c758a8f5e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a46506cee7cf9d83681de3276ec179d5844b50f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\io.pristine\libjingle\9694\jars\libs\libjingle_peerconnection.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0534156c273fbecc84a9e895fc0cd9717930968c">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\libjingle_peerconnection_48cdb0c1671b47bb6c86d5339d2f339cc7329b48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_70140bb9ea65d4954f65803480b783e790477093\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\User\Documents\Magshimim\android\SMILEY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_3445d75afe7de396ada4611f38a6dca7e9ce39a6\classes.dex" />
+    </item>
+
+</items>
