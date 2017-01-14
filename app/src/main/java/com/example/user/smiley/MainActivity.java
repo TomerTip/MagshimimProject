@@ -1,7 +1,9 @@
 package com.example.user.smiley;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 import org.webrtc.MediaConstraints;
 import org.webrtc.PeerConnectionFactory;
@@ -16,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+    }
+
+    public void moveWindow(View v)
+    {
+        Intent intent = new Intent(this,VideoChatActivity.class);
+        startActivity(intent);
     }
 }
